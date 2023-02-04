@@ -1,0 +1,18 @@
+Model: "sequential_1"
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ normalization (Normalizatio  (None, 9)                19        
+ n)                                                              
+                                                                 
+ dense_1 (Dense)             (None, 64)                640       
+                                                                 
+ dense_2 (Dense)             (None, 64)                4160      
+                                                                 
+ dense_3 (Dense)             (None, 1)                 65        
+                                                                 
+=================================================================
+Total params: 4,884
+Trainable params: 4,865
+Non-trainable params: 19
+_________________________________________________________________

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/tform/fourthbrain/codes/mle11-course-lab/mle11-course-lab/assignments/week-07-intro-dl/nb/mlruns/0/cb25020389904585aee3e52ab9c39076/artifacts
+end_time: 1675527391683
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cb25020389904585aee3e52ab9c39076
+run_name: treasured-ram-505
+run_uuid: cb25020389904585aee3e52ab9c39076
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675527374882
+status: 3
+tags: []
+user_id: tform
