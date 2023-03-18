@@ -189,7 +189,7 @@ Note that the second command requires `vim`.
 
 2. Verify that the image has been built.
 
-    ```docker image -ls # docker images```    
+    ```docker image ls # docker images```    
 
     You shall see something similar to this:
     
